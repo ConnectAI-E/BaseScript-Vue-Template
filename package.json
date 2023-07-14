@@ -1,0 +1,21 @@
+{
+  "name": "Vue Template",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@base-open/web-api": "https://lf3-static.bytednsdoc.com/obj/eden-cn/nuptlgbpx/@base-open/web-api/base-open-web-api-0.1.6-alpha.7.tgz",
+    "element-plus": "^2.3.6",
+    "reset-css": "^5.0.1",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "unplugin-auto-import": "^0.16.4",
+    "unplugin-vue-components": "^0.25.1",
+    "vite": "^3.0.1"
+  }
+}
